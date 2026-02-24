@@ -31,5 +31,7 @@ int main()
 
     delete[] b;
 
+    std::cout << "valami " << std::endl;
+
     return 0;
 }
